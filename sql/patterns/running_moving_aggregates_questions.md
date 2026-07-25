@@ -1,0 +1,25 @@
+# Questions
+
+- [LeetCode 1321 - Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)
+- [LeetCode 1070 - Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/)
+- [LeetCode 550 - Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)
+- [LeetCode 534 - Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)
+- [LeetCode 1097 - Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/)
+- [LeetCode 569 - Median Employee Salary](https://leetcode.com/problems/median-employee-salary/)
+- [LeetCode 615 - Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/)
+- [LeetCode 1193 - Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)
+- [LeetCode 1126 - Active Businesses](https://leetcode.com/problems/active-businesses/)
+- [LeetCode 2984 - Find Peak Calling Hours for Each City](https://leetcode.com/problems/find-peak-calling-hours-for-each-city/)
+
+- [DataLemur - 7-Day Rolling Average](https://datalemur.com/questions/7-day-rolling-average)
+- [DataLemur - Card Launch Success](https://datalemur.com/questions/card-launch-success)
+- [DataLemur - User Shopping Sprees](https://datalemur.com/questions/sql-user-shopping-spree)
+- [DataLemur - Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)
+- [DataLemur - Histogram of Tweets](https://datalemur.com/questions/histogram-of-tweets)
+- [DataLemur - Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)
+
+- [StrataScratch - Rolling Average Tweets](https://www.stratascratch.com/)
+- [StrataScratch - Rolling Average Session Time](https://www.stratascratch.com/)
+- [StrataScratch - Daily Revenue Running Total](https://www.stratascratch.com/)
+- [StrataScratch - Monthly Percentage Difference](https://www.stratascratch.com/)
+- [StrataScratch - Customer Revenue Over Time](https://www.stratascratch.com/)

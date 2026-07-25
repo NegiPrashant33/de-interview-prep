@@ -1,0 +1,26 @@
+# Questions
+
+- [LeetCode 185 - Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
+- [LeetCode 184 - Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+- [LeetCode 602 - Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)
+- [LeetCode 1077 - Project Employees III](https://leetcode.com/problems/project-employees-iii/)
+- [LeetCode 1076 - Project Employees II](https://leetcode.com/problems/project-employees-ii/)
+- [LeetCode 570 - Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
+- [LeetCode 550 - Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)
+- [LeetCode 1045 - Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)
+- [LeetCode 512 - Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)
+- [LeetCode 619 - Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)
+
+- [DataLemur - FAANG Stock Min-Max (Top Stocks)](https://datalemur.com/questions/sql-highest-grossing)
+- [DataLemur - Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)
+- [DataLemur - Top Three Salaries](https://datalemur.com/questions/top-three-salaries)
+- [DataLemur - Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)
+- [DataLemur - Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs)
+- [DataLemur - LinkedIn Power Creators](https://datalemur.com/questions/linkedin-power-creators)
+
+- [StrataScratch - Highest Salary In Department](https://www.stratascratch.com/)
+- [StrataScratch - Top 5 States With Highest Gun Ownership](https://www.stratascratch.com/)
+- [StrataScratch - Most Profitable Companies](https://www.stratascratch.com/)
+- [StrataScratch - Ranking Most Active Guests](https://www.stratascratch.com/)
+- [StrataScratch - Highest Energy Consumption](https://www.stratascratch.com/)
+- [StrataScratch - Most Popular Client ID](https://www.stratascratch.com/)
